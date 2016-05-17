@@ -1,2 +1,2 @@
 # Scheduler
-Round robin job scheduler for linux written in C.
+Simple round robin job scheduler for linux written in C.
