@@ -1,3 +1,3 @@
 # Scheduler
-Simple round robin job scheduler for linux written in C.
-Will upload all code today
+Simple round robin job scheduler for Linux written in C. Uses fork() to start/manage processes.
+
